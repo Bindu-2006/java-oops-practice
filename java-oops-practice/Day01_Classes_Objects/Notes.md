@@ -1,4 +1,4 @@
-#Day 1-Classes & Objects
+# Day 1-Classes & Objects
 
 ## What I learned
 - Class is a blueprint for objects.It is a named group of properties(variables) and functions.
@@ -8,7 +8,7 @@
 - 'main' method is the program entry point.
 
 
-##Practice Programs
+## Practice Programs
 1. Student.java
 2. Car.java
 3. Rectangle.java
