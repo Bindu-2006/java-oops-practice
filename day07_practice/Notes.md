@@ -6,6 +6,7 @@
 - One interface can inherit another interface using the keyword extends.
 
 Interface → extends interface
+
 Class → implements interface
 
 
